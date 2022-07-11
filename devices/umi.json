@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": 1655197499,
-      "filename": "tequila-12.1-20220614-0905-OFFICIAL-umi.zip",
-      "id": "ce433f59aec84f6ca690c11a1b6622e055bc28be37783ac6ccdcbad3db00f9d1",
-      "size": 1789026132,
-      "url": "https://github.com/tequilaOS/platform_device_xiaomi_umi/releases/download/20220614-0905/tequila-12.1-20220614-0905-OFFICIAL-umi.zip",
+      "datetime": 1657531933,
+      "filename": "tequila-12.1-20220711-0933-OFFICIAL-umi.zip",
+      "id": "69d287b71e4d11b21ffefdc94a745ecbb9dd22f9dbc23caab83860b3cfcb1ef2",
+      "size": 1849631122,
+      "url": "https://github.com/tequilaOS/platform_device_xiaomi_umi/releases/download/20220711-0933/tequila-12.1-20220711-0933-OFFICIAL-umi.zip",
       "version": "12.1"
     }
   ]
