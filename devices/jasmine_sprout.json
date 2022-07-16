@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": 1657931850,
-      "filename": "tequila-12.1-20220716-0037-OFFICIAL-jasmine_sprout.zip",
-      "id": "7df49611fad8dc2d271b94b708c3789423b87ade65af78e703a46b9af4d171e4",
-      "size": 1301358073,
-      "url": "https://github.com/tequilaOS/platform_device_xiaomi_jasmine_sprout/releases/download/20220716-0037/tequila-12.1-20220716-0037-OFFICIAL-jasmine_sprout.zip",
+      "datetime": 1657956067,
+      "filename": "tequila-12.1-20220716-0721-OFFICIAL-jasmine_sprout.zip",
+      "id": "8c526581fc3f2c7172c25373b1385ad822d9dbb3289e6c94331252e46b3076bd",
+      "size": 1316033329,
+      "url": "https://github.com/tequilaOS/platform_device_xiaomi_jasmine_sprout/releases/download/20220716-0721/tequila-12.1-20220716-0721-OFFICIAL-jasmine_sprout.zip",
       "version": "12.1"
     }
   ]
