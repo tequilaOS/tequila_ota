@@ -4,6 +4,10 @@
             "name": "Mi A2",
             "maintainer": "clarencelol"
         },
+        "miatoll": {
+            "name": "SM7250",
+            "maintainer": "zlewchan"
+        },
         "umi": {
             "name": "Mi 10",
             "maintainer": "ejbtrd"
