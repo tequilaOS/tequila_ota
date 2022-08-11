@@ -1,0 +1,12 @@
+{
+  "response": [
+    {
+      "datetime": 1660202752,
+      "filename": "tequila-12.1-20220811-0727-OFFICIAL-andromeda.zip",
+      "id": "f45ba4ab3a21e71a3a795cf9021977521fb6395be148be2b5aa79e79cdbaec63",
+      "size": 1768131656,
+      "url": "https://github.com/tequilaOS/platform_device_xiaomi_andromeda/releases/download/20220811-0727/tequila-12.1-20220811-0727-OFFICIAL-andromeda.zip",
+      "version": "12.1"
+    }
+  ]
+}
