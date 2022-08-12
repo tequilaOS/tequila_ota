@@ -1,0 +1,12 @@
+{
+  "response": [
+    {
+      "datetime": 1660242620,
+      "filename": "tequila-12.1-20220812-2028-OFFICIAL-miatoll.zip",
+      "id": "4845eb21185eee5533cb46d9376c7027fa71f19275a448d6235e905136e0ab97",
+      "size": 1663338288,
+      "url": "https://github.com/tequilaOS/platform_device_xiaomi_miatoll/releases/download/20220812-2028/tequila-12.1-20220812-2028-OFFICIAL-miatoll.zip",
+      "version": "12.1"
+    }
+  ]
+}
