@@ -2,10 +2,10 @@
   "response": [
     {
       "datetime": 1662746582,
-      "filename": "tequila-tobacco-20220916-0719-OFFICIAL-renoir.zip",
-      "id": "fe532fd0310413ad29b6aa136e22f4693d37f789ce3168ffab999479c9d8fb35",
-      "size": 1664491989,
-      "url": "https://github.com/tequilaOS/platform_device_xiaomi_renoir/releases/download/20220916-0719/tequila-tobacco-20220916-0719-OFFICIAL-renoir.zip",
+      "filename": "tequila-tobacco-20220916-0805-OFFICIAL-renoir.zip",
+      "id": "c36dc4f9564bacf038af4631ba65d7533431d44418317d848de8a43d0a0e9191",
+      "size": 1664309872,
+      "url": "https://github.com/tequilaOS/platform_device_xiaomi_renoir/releases/download/20220916-0805/tequila-tobacco-20220916-0805-OFFICIAL-renoir.zip",
       "version": "tobacco"
     }
   ]
