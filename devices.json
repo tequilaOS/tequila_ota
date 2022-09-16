@@ -1,5 +1,9 @@
 {
     "Xiaomi": {
+        "renoir": {
+            "name": "Mi 11 Lite 5G",
+            "maintainer": "ejbtrd"
+        },
         "umi": {
             "name": "Mi 10",
             "maintainer": "ejbtrd"
