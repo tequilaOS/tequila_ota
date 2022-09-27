@@ -1,5 +1,9 @@
 {
     "Xiaomi": {
+        "jasmine_sprout": {
+            "name": "Mi A2",
+            "maintainer": "clarencelol"
+        },
         "renoir": {
             "name": "Mi 11 Lite 5G",
             "maintainer": "ejbtrd"
@@ -7,6 +11,10 @@
         "umi": {
             "name": "Mi 10",
             "maintainer": "ejbtrd"
+        },
+        "wayne": {
+            "name": "Mi 6X",
+            "maintainer": "clarencelol"
         }
     }
 }
