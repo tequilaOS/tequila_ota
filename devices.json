@@ -1,4 +1,10 @@
 {
+    "OnePlus": {
+        "lemonadep": {
+            "name": "9 Pro",
+            "maintainer": "ejbtrd"
+        }
+    },
     "Xiaomi": {
         "jasmine_sprout": {
             "name": "Mi A2",
