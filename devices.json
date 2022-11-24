@@ -1,5 +1,9 @@
 {
     "OnePlus": {
+        "enchilada": {
+            "name": "6",
+            "maintainer": "KamilaKawaii"
+        },
         "lemonadep": {
             "name": "9 Pro",
             "maintainer": "ejbtrd"
@@ -18,7 +22,7 @@
             "name": "Mi 11 Lite 5G",
             "maintainer": "ejbtrd"
         },
-	"surya": {
+        "surya": {
             "name": "Poco X3 NFC",
             "maintainer": "TheStrechh"
         },
