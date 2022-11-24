@@ -6,6 +6,10 @@
         }
     },
     "Xiaomi": {
+        "alioth": {
+            "name": "Poco F3",
+            "maintainer": "Fikri"
+        },
         "jasmine_sprout": {
             "name": "Mi A2",
             "maintainer": "clarencelol"
