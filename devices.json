@@ -25,6 +25,10 @@
         "wayne": {
             "name": "Mi 6X",
             "maintainer": "clarencelol"
+        },
+        "alioth": {
+            "name": "Poco F3",
+            "maintainer": "Fikri"
         }
     }
 }
