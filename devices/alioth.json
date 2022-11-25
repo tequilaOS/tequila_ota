@@ -1,0 +1,12 @@
+{
+  "response": [
+    {
+      "datetime": 1669334057,
+      "filename": "tequila-tobacco-20221124-2356-OFFICIAL-alioth.zip",
+      "id": "0835cddb6128640f7687a5ff578b0f31efbb35c52e680a6eacd55d901e5352f4",
+      "size": 1636327036,
+      "url": "https://github.com/tequilaOS/platform_device_xiaomi_alioth/releases/download/20221124-2356/tequila-tobacco-20221124-2356-OFFICIAL-alioth.zip",
+      "version": "tobacco"
+    }
+  ]
+}
