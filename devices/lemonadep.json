@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": 1665869996,
-      "filename": "tequila-tobacco-20221015-2202-OFFICIAL-lemonadep.zip",
-      "id": "28a21bd87caf672ea57571c31317a3d056aa92b003ca5a1b2b6e761a04f3f7a0",
-      "size": 1744847805,
-      "url": "https://github.com/tequilaOS/platform_device_oneplus_lemonadep/releases/download/20221015-2202/tequila-tobacco-20221015-2202-OFFICIAL-lemonadep.zip",
+      "datetime": 1669446239,
+      "filename": "tequila-tobacco-20221126-0849-OFFICIAL-lemonadep.zip",
+      "id": "51ed92979ee44d7fb722a3f27d86e459dbda6d9340ef0af9769ee6ab4a5de4af",
+      "size": 1749473486,
+      "url": "https://github.com/tequilaOS/platform_device_oneplus_lemonadep/releases/download/20221126-0849/tequila-tobacco-20221126-0849-OFFICIAL-lemonadep.zip",
       "version": "tobacco"
     }
   ]
