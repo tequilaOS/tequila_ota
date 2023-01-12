@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1669048826,
-      "filename": "tequila-tobacco-20221122-2302-OFFICIAL-umi.zip",
-      "id": "3287c327c6c76e395656a22ae8c205fdf670e30f0adf18f2275a5d1b7cc2bddc",
-      "size": 1814708295,
-      "url": "https://github.com/tequilaOS/platform_device_xiaomi_umi/releases/download/20221122-2302/tequila-tobacco-20221122-2302-OFFICIAL-umi.zip",
-      "version": "tobacco"
+      "datetime": 1673505298,
+      "filename": "tequila-tortilla-20230112-0636-OFFICIAL-umi.zip",
+      "id": "679a9124f2c4723580282621c116ef3c192e6819044eba3ae15ebfaf59add0bf",
+      "size": 1927483176,
+      "url": "https://github.com/tequilaOS/platform_device_xiaomi_umi/releases/download/20230112-0636/tequila-tortilla-20230112-0636-OFFICIAL-umi.zip",
+      "version": "tortilla"
     }
   ]
 }
