@@ -9,6 +9,20 @@
             "maintainer": "ejbtrd"
         }
     },
+    "Samsung": {
+        "crownlte": {
+            "name": "Galaxy Note9",
+            "maintainer": "WindowsDev0"
+        },
+        "starlte": {
+            "name": "Galaxy S9",
+            "maintainer": "WindowsDev0"
+        },
+        "star2lte": {
+            "name": "Galaxy S9+",
+            "maintainer": "WindowsDev0"
+        }
+    },
     "Xiaomi": {
         "alioth": {
             "name": "Poco F3",
