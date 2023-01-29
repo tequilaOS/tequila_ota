@@ -40,6 +40,10 @@
             "name": "Mi A2",
             "maintainer": "clarencelol"
         },
+        "miatoll": {
+            "name": "POCO M2 Pro / Redmi Note 9S / Redmi Note 9 Pro / Redmi Note 9 Pro Max / Redmi Note 10 Lite",
+            "maintainer": "clarencelol"
+        },
         "renoir": {
             "name": "Mi 11 Lite 5G",
             "maintainer": "ejbtrd"
