@@ -1,4 +1,14 @@
 {
+    "Google": {
+        "blueline": {
+            "name": "Pixel 3",
+            "maintainer": "DarkPlayerr"
+        },
+        "crosshatch": {
+            "name": "Pixel 3 XL",
+            "maintainer": "DarkPlayerr"
+        }
+    },
     "OnePlus": {
         "enchilada": {
             "name": "6",
