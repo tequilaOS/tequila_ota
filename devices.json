@@ -38,6 +38,10 @@
             "name": "Poco F3",
             "maintainer": "Fikri"
         },
+	"andromeda": {
+	    "name": "Mi MIX 3 5G",
+	    "maintainer": "windeqk"
+	},
         "apollo": {
             "name": "Mi 10T / Mi 10T Pro",
             "maintainer": "przekichane"
