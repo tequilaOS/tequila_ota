@@ -7,6 +7,14 @@
         "crosshatch": {
             "name": "Pixel 3 XL",
             "maintainer": "DarkPlayerr"
+        },
+        "taimen": {
+            "name": "Pixel 2 XL",
+            "maintainer": "ProgramistaZpolski"
+        },
+        "walleye": {
+            "name": "Pixel 2",
+            "maintainer": "ProgramistaZpolski"
         }
     },
     "OnePlus": {
