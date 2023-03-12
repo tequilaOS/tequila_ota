@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1666119630,
-      "filename": "tequila-tobacco-20221122-0928-OFFICIAL-jasmine_sprout.zip",
-      "id": "efdf73c23cd360f65165e8bb1295688c41f3734b74ba8b516a6f11169efc6076",
-      "size": 1242500252,
-      "url": "https://github.com/tequilaOS/platform_device_xiaomi_jasmine_sprout/releases/download/20221122-0928/tequila-tobacco-20221122-0928-OFFICIAL-jasmine_sprout.zip",
-      "version": "tobacco"
+      "datetime": 1678580290,
+      "filename": "tequila-tortilla-20230312-0033-OFFICIAL-jasmine_sprout.zip",
+      "id": "c13b5054496f8af362dfc7201586c9d7906f8e999b5b9c4e17b18fad9eb11c5e",
+      "size": 1313843232,
+      "url": "https://github.com/tequilaOS/platform_device_xiaomi_jasmine_sprout/releases/download/20230312-0033/tequila-tortilla-20230312-0033-OFFICIAL-jasmine_sprout.zip",
+      "version": "tortilla"
     }
   ]
 }
