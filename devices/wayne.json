@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1666119630,
-      "filename": "tequila-tobacco-20221122-1252-OFFICIAL-wayne.zip",
-      "id": "1132917f72c74d36bace189925c608b54bb36673c00b8dd5262691954712705a",
-      "size": 1337599307,
-      "url": "https://github.com/tequilaOS/platform_device_xiaomi_wayne/releases/download/20221122-1252/tequila-tobacco-20221122-1252-OFFICIAL-wayne.zip",
-      "version": "tobacco"
+      "datetime": 1678577762,
+      "filename": "tequila-tortilla-20230312-0002-OFFICIAL-wayne.zip",
+      "id": "64f4ac98d203c67acedcd5329f5499184f87793cc997de0c23095a40f1ef5f9c",
+      "size": 1435033729,
+      "url": "https://github.com/tequilaOS/platform_device_xiaomi_wayne/releases/download/20230312-0002/tequila-tortilla-20230312-0002-OFFICIAL-wayne.zip",
+      "version": "tortilla"
     }
   ]
 }
