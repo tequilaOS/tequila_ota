@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": 1676047236,
-      "filename": "tequila-tortilla-20230212-1129-OFFICAL-walleye.zip",
-      "id": "c5a217ce4a9a036ca0307f1c4b5c492911ec1c24c31c213025d24695fde49ef6",
-      "size": 625426988,
-      "url": "https://github.com/tequilaOS/platform_device_google_walleye/releases/download/20230212-1129/tequila-tortilla-20230212-1129-OFFICAL-walleye.zip",
+      "datetime": 1679064147,
+      "filename": "tequila-tortilla-20230321-1657-OFFICAL-walleye.zip",
+      "id": "744b4bb224195affd456ee6c9e5696c906806499044b5f0025ab6c5c64df31e9",
+      "size": 640478036,
+      "url": "https://github.com/tequilaOS/platform_device_google_walleye/releases/download/20230321-1657/tequila-tortilla-20230321-1657-OFFICAL-walleye.zip",
       "version": "tortilla"
     }
   ]
