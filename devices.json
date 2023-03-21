@@ -70,6 +70,10 @@
             "name": "POCO M2 Pro / Redmi Note 9S / Redmi Note 9 Pro / Redmi Note 9 Pro Max / Redmi Note 10 Lite",
             "maintainer": "clarencelol"
         },
+        "mido": {
+            "name": "Redmi Note 4",
+            "maintainer": "x0x00044"
+        },
         "renoir": {
             "name": "Mi 11 Lite 5G",
             "maintainer": "przekichane"
