@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": 1679962618,
-      "filename": "tequila-tortilla-20230328-0044-OFFICIAL-lavender.zip",
-      "id": "06ce39ca2ff7bf954ecc533fd2f4a128b4abeb983b8a92fbe34ed9a038fda8ef",
-      "size": 1523492657,
-      "url": "https://github.com/tequilaOS/platform_device_xiaomi_lavender/releases/download/20230328-0044/tequila-tortilla-20230328-0044-OFFICIAL-lavender.zip",
+      "datetime": 1681172115,
+      "filename": "tequila-tortilla-20230411-0017-OFFICIAL-lavender.zip",
+      "id": "e2554ee103adb1baab024499135984157e7d428fb68d950fef4ab6942a9786a2",
+      "size": 1523455234,
+      "url": "https://github.com/tequilaOS/platform_device_xiaomi_lavender/releases/download/20230411-0017/tequila-tortilla-20230411-0017-OFFICIAL-lavender.zip",
       "version": "tortilla"
     }
   ]
