@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": 1681217534,
-      "filename": "tequila-tortilla-20230411-1252-OFFICIAL-miatoll.zip",
-      "id": "5f23716aaa0137c6d4f6ee42c8cb4889b1e92cf4d632d73241a535b7c713ff6a",
-      "size": 1795289806,
-      "url": "https://github.com/tequilaOS/platform_device_xiaomi_miatoll/releases/download/20230411-1252/tequila-tortilla-20230411-1252-OFFICIAL-miatoll.zip",
+      "datetime": 1681221368,
+      "filename": "tequila-tortilla-20230411-1407-OFFICIAL-miatoll.zip",
+      "id": "dc91373aa3bff0782d092309710a9482fe8ed4d4740962642eca648eaec7932d",
+      "size": 1795275912,
+      "url": "https://github.com/tequilaOS/platform_device_xiaomi_miatoll/releases/download/20230411-1407/tequila-tortilla-20230411-1407-OFFICIAL-miatoll.zip",
       "version": "tortilla"
     }
   ]
