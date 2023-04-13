@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": 1675368052,
-      "filename": "tequila-tortilla-20230202-2004-OFFICAL-starlte.zip",
-      "id": "6ae4f33f5ff0e2fa0f5e41aab6347862f89a2239d6defc41213baa31ce4bee7a",
-      "size": 1568103514,
-      "url": "https://github.com/tequilaOS/platform_device_samsung_starlte/releases/download/20230202-2004/tequila-tortilla-20230202-2004-OFFICAL-starlte.zip",
+      "datetime": 1681333149,
+      "filename": "tequila-tortilla-20230412-2101-OFFICAL-starlte.zip",
+      "id": "16026072b566fde60f5591a68978996f317f600697c59c16ac118ff04d64a673",
+      "size": 1604030846,
+      "url": "https://github.com/tequilaOS/platform_device_samsung_starlte/releases/download/20230412-2101/tequila-tortilla-20230412-2101-OFFICAL-starlte.zip",
       "version": "tortilla"
     }
   ]
