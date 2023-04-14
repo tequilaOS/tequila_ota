@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": 1676439439,
-      "filename": "tequila-tortilla-20230216-2242-UNOFFICIAL-apollo.zip",
-      "id": "7ea410063dfadedb2d9df3da221955c70ebddb41c5d73dd4cc288ae5e0a3d55a",
-      "size": 2014660049,
-      "url": "https://github.com/tequilaOS/platform_device_xiaomi_apollo/releases/download/20230216-2242/tequila-tortilla-20230216-2242-UNOFFICIAL-apollo.zip",
+      "datetime": 1681487528,
+      "filename": "tequila-tortilla-20230414-1553-OFFICIAL-apollo.zip",
+      "id": "0acabd979119d5b94cc27570fccabbf5a4ef59e6d368a366a8879a4d5f612820",
+      "size": 2035295043,
+      "url": "https://github.com/tequilaOS/platform_device_xiaomi_apollo/releases/download/20230414-1553/tequila-tortilla-20230414-1553-OFFICIAL-apollo.zip",
       "version": "tortilla"
     }
   ]
