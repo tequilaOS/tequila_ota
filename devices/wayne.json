@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": 1681260897,
-      "filename": "tequila-tortilla-20230412-0106-OFFICIAL-wayne.zip",
-      "id": "d9eb6dec6f759692348f912b263f5d20094ec509cff9c083fe93eba00ab1b358",
-      "size": 1448796217,
-      "url": "https://github.com/tequilaOS/platform_device_xiaomi_wayne/releases/download/20230412-0106/tequila-tortilla-20230412-0106-OFFICIAL-wayne.zip",
+      "datetime": 1683102702,
+      "filename": "tequila-tortilla-20230503-0837-OFFICIAL-wayne.zip",
+      "id": "9692fff73fefc000b2764cfbedf32fe0e680599e1878033aeba716235c40cc31",
+      "size": 1440951583,
+      "url": "https://github.com/tequilaOS/platform_device_xiaomi_wayne/releases/download/20230503-0837/tequila-tortilla-20230503-0837-OFFICIAL-wayne.zip",
       "version": "tortilla"
     }
   ]
