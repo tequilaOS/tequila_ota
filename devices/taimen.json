@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": 1681235350,
-      "filename": "tequila-tortilla-20230411-1754-OFFICAL-taimen.zip",
-      "id": "892cc67720482236a85a39f23471be619d557d0ac214bf2cbd57528e8217b159",
-      "size": 1413688657,
-      "url": "https://github.com/tequilaOS/platform_device_google_taimen/releases/download/20230411-1754/tequila-tortilla-20230411-1754-OFFICAL-taimen.zip",
+      "datetime": 1683092487,
+      "filename": "tequila-tortilla-20230503-0559-OFFICAL-taimen.zip",
+      "id": "f694d4ab9c2d8a9c84db4e5112b3cc6af03e2c55aff998680ed240380f25d8c3",
+      "size": 1414143557,
+      "url": "https://github.com/tequilaOS/platform_device_google_taimen/releases/download/20230503-0559/tequila-tortilla-20230503-0559-OFFICAL-taimen.zip",
       "version": "tortilla"
     }
   ]
