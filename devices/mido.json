@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": 1681598829,
-      "filename": "tequila-tortilla-20230420-2108-OFFICIAL-mido.zip",
-      "id": "fb5a3481cec91216edc7838ce55285ecb13ea7656aed5e724aa3c77392393418",
-      "size": 1350512818,
-      "url": "https://github.com/tequilaOS/platform_device_xiaomi_mido/releases/download/20230420-2108/tequila-tortilla-20230420-2108-OFFICIAL-mido.zip",
+      "datetime": 1683069820,
+      "filename": "tequila-tortilla-20230504-1615-OFFICIAL-mido.zip",
+      "id": "ab691c5a8efc8a9a1bfc7a8f1e056f330c8534c1bd2e009fb1f64e8542f5578d",
+      "size": 1350670171,
+      "url": "https://github.com/tequilaOS/platform_device_xiaomi_mido/releases/download/20230504-1615/tequila-tortilla-20230504-1615-OFFICIAL-mido.zip",
       "version": "tortilla"
     }
   ]
