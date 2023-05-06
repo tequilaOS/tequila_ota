@@ -1,0 +1,12 @@
+{
+  "response": [
+    {
+      "datetime": 1683228708,
+      "filename": "tequila-tortilla-20230506-2234-OFFICIAL-bramble.zip",
+      "id": "d0f83ebc696745741469adbdb78342249df028d961ea210c1bee122754662734",
+      "size": 1644603022,
+      "url": "https://github.com/tequilaOS/platform_device_google_bramble/releases/download/20230506-2234/tequila-tortilla-20230506-2234-OFFICIAL-bramble.zip",
+      "version": "tortilla"
+    }
+  ]
+}
