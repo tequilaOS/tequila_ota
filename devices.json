@@ -1,5 +1,13 @@
 {
     "Google": {
+        "barbet": {
+            "name": "Pixel 5a",
+            "maintainer": "x0x00044"
+        },
+        "bramble": {
+            "name": "Pixel 4a 5G",
+            "maintainer": "x0x00044"
+        },
         "blueline": {
             "name": "Pixel 3",
             "maintainer": "DarkPlayerr"
@@ -7,6 +15,10 @@
         "crosshatch": {
             "name": "Pixel 3 XL",
             "maintainer": "DarkPlayerr"
+        },
+        "redfin": {
+            "name": "Pixel 5",
+            "maintainer": "x0x00044"
         },
         "taimen": {
             "name": "Pixel 2 XL",
