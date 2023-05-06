@@ -1,0 +1,12 @@
+{
+  "response": [
+    {
+      "datetime": 1683414859,
+      "filename": "tequila-tortilla-20230506-2314-OFFICIAL-barbet.zip",
+      "id": "8d5efa970fd7a5a5740cd15ff06c3a14d2e3d8189c36e90adbfd4009d9693171",
+      "size": 1642035754,
+      "url": "https://github.com/tequilaOS/platform_device_google_barbet/releases/download/20230506-2314/tequila-tortilla-20230506-2314-OFFICIAL-barbet.zip",
+      "version": "tortilla"
+    }
+  ]
+}
