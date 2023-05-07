@@ -1,0 +1,12 @@
+{
+  "response": [
+    {
+      "datetime": 1683416649,
+      "filename": "tequila-tortilla-20230506-2344-OFFICIAL-redfin.zip",
+      "id": "ed0d6b6270eb338bab6ab8ffe37606a91924ff6bf2e3cd67f3aa7572f1c5ba4a",
+      "size": 1644502582,
+      "url": "https://github.com/tequilaOS/platform_device_google_redfin/releases/download/20230506-2344/tequila-tortilla-20230506-2344-OFFICIAL-redfin.zip",
+      "version": "tortilla"
+    }
+  ]
+}
