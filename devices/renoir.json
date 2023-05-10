@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": 1681200029,
-      "filename": "tequila-tortilla-20230411-0943-OFFICIAL-renoir.zip",
-      "id": "7dbee559791a84611231ad05b1893e836582e4e1f06b0399f5b49e156f8505ee",
-      "size": 1764544120,
-      "url": "https://github.com/tequilaOS/platform_device_xiaomi_renoir/releases/download/20230411-0943/tequila-tortilla-20230411-0943-OFFICIAL-renoir.zip",
+      "datetime": 1683735055,
+      "filename": "tequila-tortilla-20230510-1611-OFFICIAL-renoir.zip",
+      "id": "08655254303d18f9bb58e1360c36428c2b9fafad135618b07063db35cd902ff7",
+      "size": 1765151670,
+      "url": "https://github.com/tequilaOS/platform_device_xiaomi_renoir/releases/download/20230510-1611/tequila-tortilla-20230510-1611-OFFICIAL-renoir.zip",
       "version": "tortilla"
     }
   ]
