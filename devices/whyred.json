@@ -1,0 +1,12 @@
+{
+  "response": [
+    {
+      "datetime": 1684688878,
+      "filename": "tequila-tortilla-20230521-1835-OFFICIAL-whyred.zip",
+      "id": "85a065a297ab8f8b4863cc676140f430b495c4b41323d742c8933b64423a4b14",
+      "size": 1436701511,
+      "url": "https://github.com/tequilaOS/platform_device_xiaomi_whyred/releases/download/20230521-1835/tequila-tortilla-20230521-1835-OFFICIAL-whyred.zip",
+      "version": "tortilla"
+    }
+  ]
+}
