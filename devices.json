@@ -105,6 +105,10 @@
         "wayne": {
             "name": "Mi 6X",
             "maintainer": "clarencelol"
+        },
+        "whyred": {
+            "name": "Redmi Note 5",
+            "maintainer": "x0x00044"
         }
     }
 }
