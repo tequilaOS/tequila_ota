@@ -109,6 +109,10 @@
         "whyred": {
             "name": "Redmi Note 5",
             "maintainer": "x0x00044"
+        },
+        "zeus": {
+            "name": "12 Pro",
+            "maintainer": "przekichane"
         }
     }
 }
