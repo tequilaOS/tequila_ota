@@ -56,15 +56,15 @@
     "Xiaomi": {
         "alioth": {
             "name": "Poco F3",
-            "maintainer": "Fikri"
+            "discontinued": true
         },
-	"andromeda": {
-	    "name": "Mi MIX 3 5G",
-	    "maintainer": "windeqk"
-	},
+        "andromeda": {
+            "name": "Mi MIX 3 5G",
+            "discontinued": true
+        },
         "apollo": {
             "name": "Mi 10T / Mi 10T Pro",
-            "maintainer": "przekichane"
+            "discontinued": true
         },
         "davinci": {
             "name": "Mi 9T / Redmi K20",
@@ -80,7 +80,7 @@
         },
         "jasmine_sprout": {
             "name": "Mi A2",
-            "maintainer": "clarencelol"
+            "discontinued": true
         },
         "lavender": {
             "name": "Redmi Note 7",
@@ -108,7 +108,7 @@
         },
         "wayne": {
             "name": "Mi 6X",
-            "maintainer": "clarencelol"
+            "discontinued": true
         },
         "whyred": {
             "name": "Redmi Note 5",
