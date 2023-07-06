@@ -74,6 +74,10 @@
             "name": "Redmi Note 8",
             "discontinued": true
         },
+        "haydn": {
+            "name": "Mi 11i",
+            "discontinued": true
+        },
         "jasmine_sprout": {
             "name": "Mi A2",
             "maintainer": "clarencelol"
