@@ -1,0 +1,12 @@
+{
+  "response": [
+    {
+      "datetime": 1690622495,
+      "filename": "tequila-taco-20230729-1120-OFFICIAL-zeus.zip",
+      "id": "ce9153e2cc1d8c035236490fd15ff725a03619293713f5b816cc6e2145494ef9",
+      "size": 2010697066,
+      "url": "https://github.com/tequilaOS/platform_device_xiaomi_zeus/releases/download/20230729-1120/tequila-taco-20230729-1120-OFFICIAL-zeus.zip",
+      "version": "taco"
+    }
+  ]
+}
