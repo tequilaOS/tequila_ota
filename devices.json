@@ -66,6 +66,10 @@
             "name": "Mi 10T / Mi 10T Pro",
             "discontinued": true
         },
+        "cupid": {
+            "name": "12",
+            "maintainer": "Fikri"
+        },
         "davinci": {
             "name": "Mi 9T / Redmi K20",
             "maintainer": "ArixElo"
