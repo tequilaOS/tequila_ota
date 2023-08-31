@@ -2,23 +2,23 @@
     "Google": {
         "barbet": {
             "name": "Pixel 5a",
-            "maintainer": "x0x00044"
+            "discontinued": true
         },
         "bramble": {
             "name": "Pixel 4a 5G",
-            "maintainer": "x0x00044"
+            "discontinued": true
         },
         "blueline": {
             "name": "Pixel 3",
-            "maintainer": "DarkPlayerr"
+            "discontinued": true
         },
         "crosshatch": {
             "name": "Pixel 3 XL",
-            "maintainer": "DarkPlayerr"
+            "discontinued": true
         },
         "redfin": {
             "name": "Pixel 5",
-            "maintainer": "x0x00044"
+            "discontinued": true
         },
         "taimen": {
             "name": "Pixel 2 XL",
@@ -42,15 +42,15 @@
     "Samsung": {
         "crownlte": {
             "name": "Galaxy Note9",
-            "maintainer": "WindowsDev0"
+            "discontinued": true
         },
         "starlte": {
             "name": "Galaxy S9",
-            "maintainer": "WindowsDev0"
+            "discontinued": true
         },
         "star2lte": {
             "name": "Galaxy S9+",
-            "maintainer": "WindowsDev0"
+            "discontinued": true
         }
     },
     "Xiaomi": {
@@ -72,7 +72,7 @@
         },
         "davinci": {
             "name": "Mi 9T / Redmi K20",
-            "maintainer": "ArixElo"
+            "discontinued": true
         },
         "ginkgo": {
             "name": "Redmi Note 8",
@@ -88,7 +88,7 @@
         },
         "lavender": {
             "name": "Redmi Note 7",
-            "maintainer": "TheStrechh"
+            "discontinued": true
         },
         "miatoll": {
             "name": "POCO M2 Pro / Redmi Note 9S / Redmi Note 9 Pro / Redmi Note 9 Pro Max / Redmi Note 10 Lite",
@@ -96,7 +96,7 @@
         },
         "mido": {
             "name": "Redmi Note 4",
-            "maintainer": "x0x00044"
+            "discontinued": true
         },
         "renoir": {
             "name": "Mi 11 Lite 5G",
@@ -104,7 +104,7 @@
         },
         "surya": {
             "name": "Poco X3 NFC",
-            "maintainer": "TheStrechh"
+            "discontinued": true
         },
         "umi": {
             "name": "Mi 10",
@@ -116,7 +116,7 @@
         },
         "whyred": {
             "name": "Redmi Note 5",
-            "maintainer": "x0x00044"
+            "discontinued": true
         },
         "zeus": {
             "name": "12 Pro",
