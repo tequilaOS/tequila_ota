@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": 1692971126,
-      "filename": "tequila-taco-20230825-1347-OFFICIAL-umi.zip",
-      "id": "bec4765a57dab111cb58a84c495630472ec0a9d826f94f87129269804639ba8c",
-      "size": 1881663505,
-      "url": "https://github.com/tequilaOS/platform_device_xiaomi_umi/releases/download/20230825-1347/tequila-taco-20230825-1347-OFFICIAL-umi.zip",
+      "datetime": 1693573546,
+      "filename": "tequila-taco-20230901-1307-OFFICIAL-umi.zip",
+      "id": "ff4cf0e5d47f8f9f04654f6e255c62c767f52ca411720e25acdb9caeccef7380",
+      "size": 1881636439,
+      "url": "https://github.com/tequilaOS/platform_device_xiaomi_umi/releases/download/20230901-1307/tequila-taco-20230901-1307-OFFICIAL-umi.zip",
       "version": "taco"
     }
   ]
