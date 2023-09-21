@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": 1691523984,
-      "filename": "tequila-taco-20230808-2002-OFFICIAL-zeus.zip",
-      "id": "b4afd489178fbc54c39a7c3f32f83c809dde45710afff18dd8e07d054face37c",
-      "size": 2013642314,
-      "url": "https://github.com/tequilaOS/platform_device_xiaomi_zeus/releases/download/20230808-2002/tequila-taco-20230808-2002-OFFICIAL-zeus.zip",
+      "datetime": 1695301286,
+      "filename": "tequila-taco-20230921-1438-OFFICIAL-zeus.zip",
+      "id": "160db50f5d76359b33a1195f925a4c18263389263838f3e904a330406ee1a314",
+      "size": 2014404854,
+      "url": "https://github.com/tequilaOS/platform_device_xiaomi_zeus/releases/download/20230921-1438/tequila-taco-20230921-1438-OFFICIAL-zeus.zip",
       "version": "taco"
     }
   ]
