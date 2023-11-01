@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1695917184,
-      "filename": "tequila-taco-20230928-1608-OFFICIAL-renoir.zip",
-      "id": "465cce6ab649cee69f8a7e85f4e7db315b874ccb61b9571ccb18105ce2854481",
-      "size": 1776477019,
-      "url": "https://github.com/tequilaOS/platform_device_xiaomi_renoir/releases/download/20230928-1608/tequila-taco-20230928-1608-OFFICIAL-renoir.zip",
-      "version": "taco"
+      "datetime": 1698873752,
+      "filename": "tequila-uno-20231101-2124-OFFICIAL-renoir.zip",
+      "id": "5260e9ea181b20a804cd41723cbad37f636c2c0dbc179cb5f82260f1a6054bd1",
+      "size": 1876025201,
+      "url": "https://github.com/tequilaOS/platform_device_xiaomi_renoir/releases/download/20231101-2124/tequila-uno-20231101-2124-OFFICIAL-renoir.zip",
+      "version": "uno"
     }
   ]
 }
