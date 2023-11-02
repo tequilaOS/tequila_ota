@@ -90,6 +90,10 @@
             "name": "Redmi Note 7",
             "discontinued": true
         },
+        "marble": {
+            "name": "Poco F5 / Redmi Note 12 Turbo",
+            "maintainer": "popoASM"
+        },
         "miatoll": {
             "name": "POCO M2 Pro / Redmi Note 9S / Redmi Note 9 Pro / Redmi Note 9 Pro Max / Redmi Note 10 Lite",
             "maintainer": "clarencelol"
