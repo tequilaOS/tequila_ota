@@ -39,6 +39,12 @@
             "discontinued": true
         }
     },
+    "Realme": {
+        "X2": {
+            "name": "Realme X2",
+            "maintainer": "Retypolkg"
+        }
+    },
     "Samsung": {
         "crownlte": {
             "name": "Galaxy Note9",
