@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ab5c9cb1_5f601d63",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2023-11-06T19:12:53Z",
+      "side": 1,
+      "message": "Realme X2 -\u003e X2",
+      "revId": "53e6c10b9f03a6c2c6dfe11c36996315c5ef87b0",
+      "serverId": "6e240c91-23cb-42f0-b60c-7c3c525b6cb9"
+    }
+  ]
+}
