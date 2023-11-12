@@ -72,6 +72,14 @@
             "name": "Mi 10T / Mi 10T Pro",
             "discontinued": true
         },
+        "beryllium": {
+            "name": "Poco F1",
+            "maintainer": "x0x00044"
+        },
+        "chiron": {
+            "name": "Mi MIX 2",
+            "maintainer": "x0x00044"
+        },
         "cupid": {
             "name": "12",
             "maintainer": "Fikri"
