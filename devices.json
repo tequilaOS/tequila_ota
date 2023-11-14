@@ -33,6 +33,10 @@
         "enchilada": {
             "name": "6",
             "discontinued": true
+	},
+	"kebab": {
+		"name": "8T",
+		"maintainer": "otispl"
         },
         "lemonadep": {
             "name": "9 Pro",
