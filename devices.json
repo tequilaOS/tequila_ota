@@ -37,6 +37,10 @@
         "lemonadep": {
             "name": "9 Pro",
             "discontinued": true
+        },
+        "kebab": {
+	    "name": "8T",
+	    "maintainer": "otispl"
         }
     },
     "Realme": {
