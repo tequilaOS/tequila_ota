@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": 1700173025,
-      "filename": "tequila-uno-20231116-2220-OFFICIAL-miatoll.zip",
-      "id": "0fea37d8543f3c26da3a1206edc30e682e197bfed268010bcc7ed257b3beef9f",
-      "size": 1772605066,
-      "url": "https://github.com/tequilaOS/platform_device_xiaomi_miatoll/releases/download/20231116-2220/tequila-uno-20231116-2220-OFFICIAL-miatoll.zip",
+      "datetime": 1700182372,
+      "filename": "tequila-uno-20231117-0108-OFFICIAL-miatoll.zip",
+      "id": "c213e7c27685faadaa93e623b2daaffca48424ba7907e818cdd7c96c88d47103",
+      "size": 1842003443,
+      "url": "https://github.com/tequilaOS/platform_device_xiaomi_miatoll/releases/download/20231117-0108/tequila-uno-20231117-0108-OFFICIAL-miatoll.zip",
       "version": "uno"
     }
   ]
