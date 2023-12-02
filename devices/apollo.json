@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": 1700655920,
-      "filename": "tequila-uno-20231122-1229-OFFICIAL-apollo.zip",
-      "id": "13196822f0b61d750b128932ae46fdbc994b21c98b91a7f607e657fef6dc1c17",
-      "size": 1919578354,
-      "url": "https://github.com/tequilaOS/platform_device_xiaomi_apollo/releases/download/20231122-1229/tequila-uno-20231122-1229-OFFICIAL-apollo.zip",
+      "datetime": 1701500357,
+      "filename": "tequila-uno-20231202-0703-OFFICIAL-apollo.zip",
+      "id": "5b09c40ca606cc96dac623ac56dc42f2f83fe9d0d5cad7232eb8c56301fa7f4f",
+      "size": 1919793018,
+      "url": "https://github.com/tequilaOS/platform_device_xiaomi_apollo/releases/download/20231202-0703/tequila-uno-20231202-0703-OFFICIAL-apollo.zip",
       "version": "uno"
     }
   ]
