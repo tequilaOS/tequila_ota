@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": 1700663916,
-      "filename": "tequila-uno-20231122-1442-OFFICIAL-venus.zip",
-      "id": "6746cfc7e1bfc942a2a9c1ac0bd645e660619ded8c9a05ecfc93d67a5ca9edc5",
-      "size": 1791581301,
-      "url": "https://github.com/tequilaOS/platform_device_xiaomi_venus/releases/download/20231122-1442/tequila-uno-20231122-1442-OFFICIAL-venus.zip",
+      "datetime": 1701483512,
+      "filename": "tequila-uno-20231202-0222-OFFICIAL-venus.zip",
+      "id": "6b3dc8d9418df581a5cd85db6ea0aabcca2a95cf6b1455db4874dba068e77d8b",
+      "size": 1791563791,
+      "url": "https://github.com/tequilaOS/platform_device_xiaomi_venus/releases/download/20231202-0222/tequila-uno-20231202-0222-OFFICIAL-venus.zip",
       "version": "uno"
     }
   ]
