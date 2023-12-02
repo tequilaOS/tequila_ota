@@ -130,7 +130,7 @@
         },
         "umi": {
             "name": "Mi 10",
-            "maintainer": "przekichane"
+            "discontinued": true
         },
         "venus": {
             "name": "Mi 11",
