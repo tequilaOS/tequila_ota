@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": 1700640113,
-      "filename": "tequila-uno-20231122-0805-OFFICIAL-kebab.zip",
-      "id": "eaf5db6f655b9dc43b6451944e2bc58f8174a007915123faf45509a36ae315c6",
-      "size": 1636713603,
-      "url": "https://github.com/tequilaOS/platform_device_oneplus_kebab/releases/download/20231122-0805/tequila-uno-20231122-0805-OFFICIAL-kebab.zip",
+      "datetime": 1701491392,
+      "filename": "tequila-uno-20231202-0433-OFFICIAL-kebab.zip",
+      "id": "d7bd046d4a9bab3f0a249a4ae0b76040c3ddfff12cf53af72975d7f5c8ed23da",
+      "size": 1636767108,
+      "url": "https://github.com/tequilaOS/platform_device_oneplus_kebab/releases/download/20231202-0433/tequila-uno-20231202-0433-OFFICIAL-kebab.zip",
       "version": "uno"
     }
   ]
