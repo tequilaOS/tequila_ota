@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": 1701476343,
-      "filename": "tequila-uno-20231202-0022-OFFICIAL-chiron.zip",
-      "id": "32b82db4ede20bb93f3a9d6de3048306ccb11a29cc28159671d7b2f3bcfa68a0",
-      "size": 1476753276,
-      "url": "https://github.com/tequilaOS/platform_device_xiaomi_chiron/releases/download/20231202-0022/tequila-uno-20231202-0022-OFFICIAL-chiron.zip",
+      "datetime": 1701849706,
+      "filename": "tequila-uno-20231206-0805-OFFICIAL-chiron.zip",
+      "id": "1c7aa6cbf9b7b2d59fe737fa0893b39aaed06ff6368897a2af182d7a7903a41e",
+      "size": 1478789179,
+      "url": "https://github.com/tequilaOS/platform_device_xiaomi_chiron/releases/download/20231206-0805/tequila-uno-20231206-0805-OFFICIAL-chiron.zip",
       "version": "uno"
     }
   ]
