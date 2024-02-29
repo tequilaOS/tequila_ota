@@ -22,11 +22,11 @@
         },
         "taimen": {
             "name": "Pixel 2 XL",
-            "maintainer": "ProgramistaZpolski"
+            "discontinued": true
         },
         "walleye": {
             "name": "Pixel 2",
-            "maintainer": "ProgramistaZpolski"
+            "discontinued": true
         }
     },
     "OnePlus": {
@@ -46,7 +46,7 @@
     "Realme": {
         "X2": {
             "name": "X2",
-            "maintainer": "Retypolkg"
+            "discontinued": true
         }
     },
     "Samsung": {
@@ -74,15 +74,15 @@
         },
         "apollo": {
             "name": "Mi 10T / Mi 10T Pro",
-            "maintainer": "przekichane"
+            "discontinued": true
         },
         "beryllium": {
             "name": "Poco F1",
-            "maintainer": "x0x00044"
+            "discontinued": true
         },
         "chiron": {
             "name": "Mi MIX 2",
-            "maintainer": "x0x00044"
+            "discontinued": true
         },
         "cupid": {
             "name": "12",
@@ -110,7 +110,7 @@
         },
         "marble": {
             "name": "Poco F5 / Redmi Note 12 Turbo",
-            "maintainer": "popoASM"
+            "discontinued": true
         },
         "miatoll": {
             "name": "POCO M2 Pro / Redmi Note 9S / Redmi Note 9 Pro / Redmi Note 9 Pro Max / Redmi Note 10 Lite",
@@ -134,7 +134,7 @@
         },
         "venus": {
             "name": "Mi 11",
-            "maintainer": "Retypolkg"
+            "discontinued": true
         },
         "wayne": {
             "name": "Mi 6X",
