@@ -86,7 +86,7 @@
         },
         "cupid": {
             "name": "12",
-            "maintainer": "Fikri"
+            "discontinued": true
         },
         "davinci": {
             "name": "Mi 9T / Redmi K20",
@@ -122,7 +122,7 @@
         },
         "renoir": {
             "name": "Mi 11 Lite 5G",
-            "maintainer": "przekichane"
+            "discontinued": true
         },
         "surya": {
             "name": "Poco X3 NFC",
@@ -130,7 +130,7 @@
         },
         "umi": {
             "name": "Mi 10",
-            "maintainer": "przekichane"
+            "discontinued": true
         },
         "venus": {
             "name": "Mi 11",
@@ -146,7 +146,7 @@
         },
         "zeus": {
             "name": "12 Pro",
-            "maintainer": "przekichane"
+            "discontinued": true
         }
     }
 }
